@@ -50,7 +50,8 @@ And from a cost standpoint, running on your own hardware often has a heavier sta
 Performance wise, LLM APIs may still perform better than an open-source model running locally on general tasks but there are more and more examples appearing of smaller, focused models outperforming larger models.
 
 ### Key terms
-Term |	Description
+####Term |	Description
+
 Token |	A sub-word piece of text. For example, "hello, world!" could be split into ["hello", ",", "world", "!"]. A token can be a whole word,
 part of a word or group of punctuation characters. 1 token ~= 4 characters in English, 100 tokens ~= 75 words.
 Text gets broken into tokens before being passed to an LLM.
